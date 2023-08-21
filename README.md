@@ -1,4 +1,4 @@
-0x11. C - printf team project {namangaj and IamJonesUwak}
+0x11. C - printf team project [namangaj and IamJonesUwak]
 
 Group Project:                                                                      
                                                                                     
